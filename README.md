@@ -1,6 +1,6 @@
 # 💣 Démineur – Projet C
-> Projet réalisé dans le cadre des Travaux Pratiques
-> BUT Informatique – 1ère année, semestre 1
+Projet réalisé dans le cadre des Travaux Pratiques
+ BUT Informatique – 1ère année, semestre 1
 ## 🎮 Description
 
 Ce projet consiste à implémenter le jeu **Démineur** en langage C.  
